@@ -11,7 +11,7 @@ The feedback includes a match overview, strengths, areas for improvement, and fo
 
 Here’s the workflow structure for the Resume Refiner AI Agent:
 
-![AI Agent Flow Diagram](Resume Refiner AI Agent Flow.drawio.png)
+Resume%20Refiner%20AI%20Agent%20Flow.drawio.png
 
 
 # Approach
